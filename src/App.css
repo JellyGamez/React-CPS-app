@@ -28,6 +28,27 @@
   color: #61dafb;
 }
 
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 58px;
+  background: #5e6f7a;
+  border: none;
+  padding: 40px 400px 40px 400px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3b3c3d;
+  text-decoration: none;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
