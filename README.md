@@ -1,9 +1,10 @@
 
-# Simple clicks per second counter made in React
+# Simple CPS (clicks per second) counter
+Simple and fun app to test your clicking speed. Also my first React app.
 
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
