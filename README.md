@@ -1,6 +1,6 @@
 
 # Simple CPS (clicks per second) counter
-Simple and fun app to test your clicking speed. Also my first React app.
+Simple and fun app to test your clicking speed. Also my first React app
 
 
 
