@@ -20,7 +20,7 @@ Simple and fun app to test your clicking speed over 5 seconds built as a React s
   npm install
 ```
 
-### 4. You are good to go!
+### 4. You are good to go
 
 ```bash
   npm run start
