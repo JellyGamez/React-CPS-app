@@ -6,22 +6,22 @@ Simple and fun app to test your clicking speed over 5 seconds built as a React s
 ### 1. Clone the project
 
 ```bash
-  git clone https://github.com/JellyGamez/React-CPS-app.git
+git clone https://github.com/JellyGamez/React-CPS-app.git
 ```
 
 ### 2. Go to the project directory
 
 ```bash
-  cd React-CPS-app
+cd React-CPS-app
 ```
 ### 3.  Install the dependencies
 
 ```bash
-  npm install
+npm install
 ```
 
 ### 4. Start a local server
 
 ```bash
-  npm run start
+npm run start
 ```
