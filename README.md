@@ -1,7 +1,5 @@
-
 # Simple CPS (clicks per second) counter
 Simple and fun app to test your clicking speed over 5 seconds built as a React starter project.
-
 
 ## Getting started
 
@@ -27,4 +25,3 @@ Simple and fun app to test your clicking speed over 5 seconds built as a React s
 ```bash
   npm run start
 ```
-
